@@ -17,6 +17,9 @@ public class MainActivity extends Activity {
          * huhuhuhu
          */
         // 这是打印的日志文件
+        /**
+         * 你还这是修改注释掉的代码
+         */
     }
 
     @Override
