@@ -13,7 +13,10 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.i("","");
-        //safuiadsfhuisodh
+        /**
+         * huhuhuhu
+         */
+        // 这是打印的日志文件
     }
 
     @Override
