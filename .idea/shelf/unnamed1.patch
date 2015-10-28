@@ -1,0 +1,15 @@
+Index: app/src/main/java/com/doudou/cn/githubtest2/LoginActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/doudou/cn/githubtest2/LoginActivity.java	(revision )
++++ app/src/main/java/com/doudou/cn/githubtest2/LoginActivity.java	(revision )
+@@ -0,0 +1,7 @@
++package com.doudou.cn.githubtest2;
++
++/**
++ * Created by jinliang on 15/10/27.
++ */
++public class LoginActivity {
++}
